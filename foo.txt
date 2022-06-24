@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Sunday
-=======
-Saturday Sunday
->>>>>>> fix1
+Friday Saturday Sunday
+Joseph Campbell
